@@ -1,7 +1,7 @@
 ## input
 N, M = map(int, input().split())
 map = [list(map(int, input().split())) for _ in range(N)]
-
+n, m, v = map(int, input().split())
 
 ## permutations & combinations
 
@@ -52,3 +52,7 @@ def perm(lst,n):
 				ret.append([lst[i]]+p)
 
 	return ret
+	
+## Stack
+
+## Queue
