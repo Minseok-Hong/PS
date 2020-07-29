@@ -10,5 +10,5 @@
 - DFS, BFS
 - 문자열 장난
 
-### programmers
+### link
 - https://programmers.co.kr/learn/challenges?tab=all_challenges
