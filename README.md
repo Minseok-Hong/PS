@@ -11,4 +11,5 @@
 - 문자열 장난
 
 ### link
-- https://programmers.co.kr/learn/challenges?tab=all_challenges
+- Programmers : https://programmers.co.kr/learn/challenges?tab=all_challenges
+- N과 M : https://www.acmicpc.net/workbook/view/2052
